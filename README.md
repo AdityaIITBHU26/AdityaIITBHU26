@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am passionate about building high impact technol
 ---
 
 ## 📌 Pinned Projects
-- 
+- https://github.com/AdityaIITBHU26/Sales-Insights-Dashboard-Power-BI-SQL
 
 ---
 
